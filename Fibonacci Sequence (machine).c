@@ -2,7 +2,7 @@
 
 void printFibonacci(int n) {
     int a = 1, b = 1, f;
-
+	printf ("Arvie Sinocruz");
     printf("The Fibonacci Sequence of %d is: ", n);
 
     while (a <= n) {
